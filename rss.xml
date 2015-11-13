@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Let's Get Started]]></title>
         <description><![CDATA[Let's Get Started]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/let-s-get-started/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 19:22:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 19:24:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/let-s-get-started/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/let-s-get-started/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">631d90e6-ec5b-4491-8a49-fc4ca1ecdb96</guid>
+            <pubDate>Fri, 13 Nov 2015 19:24:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[别懒惰！]]></title>
             <description><![CDATA[<article><h1>别懒惰！</h1><p>數位時代科技媒體，每日聚焦全球、中國及台灣等地區最新的科技、網路、綠能、數位行銷、品牌及設計等議題的動態及趨勢，為讀者篩選與推薦重要的產業資訊、科技評論與商業創新模式；並透過雜誌、電子報、iPhone/Android/iPad App、Facebook粉絲專頁、微博等多元媒體，提供讀者自由選擇。</p><img src="https://3.bp.blogspot.com/-w6ogANrpSII/Vguhwo1mt2I/AAAAAAABRrE/VXmNjM3IHxI/s1024/"></article>]]></description>
-            <link>undefined0c0bdbf1-f796-4107-a0bf-3fb9b46ecf3b/index.html</link>
+            <link>https://thegrid.ai/let-s-get-started/0c0bdbf1-f796-4107-a0bf-3fb9b46ecf3b/index.html</link>
             <guid isPermaLink="false">0c0bdbf1-f796-4107-a0bf-3fb9b46ecf3b</guid>
             <pubDate>Fri, 13 Nov 2015 19:21:28 GMT</pubDate>
         </item>
